@@ -43,7 +43,7 @@ while True:
 ```
 
 # SERVER OUTPUT :
-![output](./S.png)
+
 
 # CLIENT OUTPUT : 
 ![output](./C.png)
