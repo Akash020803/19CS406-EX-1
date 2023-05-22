@@ -14,8 +14,8 @@
 
 # CLIENT PROGRAM :
 ```PYTHON 3
-## Developed By : Kavinraja D
-## Reg No : 212222240047
+## Developed By : Akash A
+## Reg No : 212221230003
 import socket
 s=socket.socket()
 s.bind(('localhost',8080))
